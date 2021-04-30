@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Aiden&#39;s World</title>
+    <link>https://xn--6n2ao17b.dev/page/</link>
+    <description>Recent content in Pages on Aiden&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xn--6n2ao17b.dev/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://xn--6n2ao17b.dev/about/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xn--6n2ao17b.dev/about/</guid>
+      <description>我第一次写博客，建站，是啥时候来着？
+2018年，六月，我还是初三的时候
+师傅荏苒，我现在已经高三，域名换了几个，主题换了几个
+人还是那个人，博客也从静态到动态又爬回了静态
+从以前的花里胡哨，到现在简单就好
+成长了太多，改变了太多
+希望，核心的自己，不要变了
+Contact ⬇️ Telegram
+E-Mail</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://xn--6n2ao17b.dev/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xn--6n2ao17b.dev/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://xn--6n2ao17b.dev/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xn--6n2ao17b.dev/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
